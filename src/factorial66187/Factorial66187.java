@@ -24,7 +24,7 @@ public class Factorial66187 {
             num--;
             
         }
-        System.out.println("factorial = " + factorial);
+        System.out.println("El factorial es = " + factorial);
     }
     
 }
